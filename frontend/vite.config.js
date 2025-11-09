@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/slotswapper/",
+  base: "/slotswapper/", // ✅ Important for GitHub Pages
 });
 

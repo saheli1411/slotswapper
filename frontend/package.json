@@ -4,13 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://saheli1411.github.io/slotswapper",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+},
   "dependencies": {
     "axios": "^1.6.7",
     "react": "^18.3.1",
